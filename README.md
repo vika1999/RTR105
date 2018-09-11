@@ -11,6 +11,7 @@ Aplikācijas veidojas ar shell valodas palīdzību.
 
 Katrai komandai ir savs īpašs kods, kuru var uzzināt ar tādu shēmu: burts (-is) 1. TAB > 2. komandas saraksts 
 Ja gribāt attīrīt eksrānu, tad vajadzīgī nospiež (Ctrl+L)
+
 uname (-a) - man uname (kods ar kuru var uzzināt detalizēto informāciju par programmu)
 komanda (-a) atslēga 
 whoami (ka es esmu, informācija par tevi)
