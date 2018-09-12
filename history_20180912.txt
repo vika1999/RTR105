@@ -1,0 +1,103 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  pwd
+    5  ls
+    6  ls - l
+    7  ls - la
+    8  ls -l
+    9  cd D
+   10  cd Music/
+   11  VirtualBox --startvm XP
+   12  whoiam
+   13  whoaim
+   14  rm ManaMape/
+   15  rm -r ManaMape?
+   16  rm ManaMape/
+   17  man rm
+   18  rm -r ManaMape/
+   19  ls
+   20  whoami
+   21  pwd
+   22  ls
+   23  ls -l
+   24  /Music$ pwd
+   25  /Music pwd
+   26  /Music$ cd .
+   27  echo$ 0
+   28  bash!
+   29  echo$0
+   30  cd .
+   31  /Music$ pwd
+   32  /Music$ pwd 
+   33  pwd 
+   34  cd .. 
+   35  pwd
+   36  /Music$ pwd
+   37  cd /home/user/
+   38  pwd
+   39  cd / 
+   40  pwd
+   41  cd - 
+   42  cd -/
+   43  cd-/
+   44  cd -
+   45  cd ~/
+   46  c~/
+   47  cd ~/
+   48  pwd
+   49  cd /
+   50  mkdir ManaMape
+   51  nkdir ManaMape
+   52  cd
+   53  pwd
+   54  mkdir ManaMape
+   55  ls -l
+   56  cd ManaMape/
+   57  pwd/
+   58  cd ManaMape/
+   59  mkdir ManaMape
+   60  ls -l
+   61  cd ManaMape/
+   62  cd ..
+   63  rmdir ManaMape/
+   64  ls -l
+   65  cd
+   66  pwd
+   67  mkdir ManaMape/
+   68  cd ManaMape/
+   69  ls -l
+   70  cd ..
+   71  rmdir ManaMape/
+   72  rm ManaMape/
+   73  man rm
+   74  echo "Teksts"
+   75  echo "Cits teksts"
+   76  man echo
+   77  echo -e "Teksts\nCits teksts"
+   78  echo "Teksts\nCits teksts
+   79  pwd
+   80  ls
+   81  nano failsl.txt
+   82  ls -l
+   83  cat fails
+   84  cat fails1.txt
+   85  cat fails2.txt
+   86  ls -l
+   87  cp failsl.txt fails3.txt
+   88  cp fails1.txt fails3.txt
+   89  mv *.txt Music/
+   90  ls -l
+   91  cd Music/
+   92  ls -l
+   93  mv*.txt ../
+   94  mv *.txt ../
+   95  ls
+   96  cd ..
+   97  ls
+   98  mv fails1.txt fails31.txt
+   99  mv fails1.txt fails3.txt 
+  100  ls -l
+  101  rm*3*.txt
+  102  ls -l
+  103  history > history_20180912.txt
