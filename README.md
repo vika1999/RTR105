@@ -43,7 +43,34 @@ cp - kopēt
 mv - pārvietot 
 rm*...*.txt - dzēst 
 ```
+**(19.09.2018)**
 
+(skripts) - fails ar komandu sarakstu 
+
+Skripts
+(fails)
+mkdir Mape
+cd Mape
+mdkir MapeMapee = izdarīt vairāk failus
+
+Jaunas konandas:
+cat - pārskatīt sarakstu 
+nano mana_skripts (veidojam mape)
+echo $PATH - (komandam saraksts)
+PATH = (piešķiršanas operācija (zīme)
+rwx - 111(7) rwx - 110(6) rwx =100 (4)
+
+Ar skriptu var izveidor mape
+instrukcijas 0/1  > OS
+fails > instruksijas cilvēkam saprotāmā gadījumā > interpretarors > OS (bash/sh)
+./mans_skripts.sh (relitātīvais)
+~/mans_skripts.sh (mājas apgabals)
+
+Darbības:
+Terminal > Firefox > github READ.ME >/< nano (nebūs atkarīgi no tīkla)
+git clone https://github.com/vika1999/RTR105
+
+  
 
 
 

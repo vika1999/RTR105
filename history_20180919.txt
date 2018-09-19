@@ -1,0 +1,61 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "mkdir Mape" > mans_skripts.sh
+    4  ls
+    5  cat mans_skripts.sh
+    6  nano mans_skripts.sh
+    7  ls - l 
+    8  ls -l
+    9  cat mans_skripts.sh
+   10  echo $PATH
+   11  pwd
+   12  PATH=$PATH:~
+   13  echo $PATH
+   14  ls -l
+   15  mans_skripts.sh 
+   16  ls -l
+   17  cd Mape/
+   18  ls -l
+   19  cd ..
+   20  cd
+   21  pwd
+   22  cat mans_skripts.sh
+   23  cat /bin/ls
+   24  62;c
+   25  ls
+   26  cat /bin/ls
+   27  62;c
+   28  nano mans_skripts.sh
+   29  mans_skripts.sh
+   30  ls 
+   31  pwd
+   32  /home/uaser/mans_skripts.sh
+   33  /home/user/mans_skripts.sh
+   34  ls
+   35  ./mans_skripts.sh
+   36  ~/mans_skripts.sh
+   37  git clone https://github.com/vika1999/RTR105
+   38  ld
+   39  ls -l
+   40  cd /RTR105 pwd
+   41  /RTR105$ pwd
+   42  ~/RTR 
+   43  ~/RTR105 pwd
+   44  ~/RTT105% ls -l
+   45  ~/RTR105$ ls -l
+   46  ~/RTR105$ pwd 
+   47  pwd
+   48  ls -l
+   49  cd RTR105/
+   50  pwd
+   51  ls -l
+   52  nano README.md 
+   53  cat cat README.md
+   54  pwd
+   55  ls -l
+   56  nano git-upload
+   57  ls -l
+   58  chmod cat README.md\764
+   59  chmod 764 git-upload
+   60  ls -l
+   61  history > history_20180919.txt
