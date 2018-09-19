@@ -59,3 +59,24 @@
    59  chmod 764 git-upload
    60  ls -l
    61  history > history_20180919.txt
+   62  ls -l
+   63  pwd
+   64  ls -l
+   65  ./git-upload
+   66  ./git-upload 20180919_09_50
+   67  ./git-upload
+   68  ./git-upload 20180919_09_50
+   69  ls -l
+   70  pwd
+   71  ls -l
+   72  ./git-upload
+   73  ./git-upload 20180919_09_50
+   74  ls -l
+   75  python
+   76  ipython
+   77  idle
+   78  idle$
+   79  idle
+   80  pwd
+   81  ls -l
+   82  history > history_20180919.txt
