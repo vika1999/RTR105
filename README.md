@@ -60,7 +60,7 @@ echo $PATH - (komandam saraksts)
 PATH = (piešķiršanas operācija (zīme)
 rwx - 111(7) rwx - 110(6) rwx =100 (4)
 
-Ar skriptu var izveidor mape
+Ar skriptu var izveidot mape
 instrukcijas 0/1  > OS
 fails > instruksijas cilvēkam saprotāmā gadījumā > interpretarors > OS (bash/sh)
 ./mans_skripts.sh (relitātīvais)
@@ -69,11 +69,28 @@ fails > instruksijas cilvēkam saprotāmā gadījumā > interpretarors > OS (bas
 Darbības:
 Terminal > Firefox > github READ.ME >/< nano (nebūs atkarīgi no tīkla)
 git clone https://github.com/vika1999/RTR105
+./git-upload (tagad un šeit)
+Python skripti > Python interpritators > OS
+               = python >/<; ipython > idle + "interpritators">/<
+```
+vars () - (objekta nosaukums, apraksts, pilns saraksts)
+objekts..doc.. (jebkura dokumenta - īss apraksts)
+print > python 3... print ()
+exit() - iziet
+type() = vesela tipa skaitļi
+ipython (V+TAB) - var izmantot tikai to, kas ir definets.
+```
+Cilvēks - burts (simboli _ _ _ _ ) /  Dators 0/1
+          skaiļi > 0,1,2,3,4      / 0101110101 > interpritācija + atbilstoša tabulā ASCII (www.ecowin.org/ascii.htm)
+                 > 1,5,6,7       
+Skaītīšanas sistēmas > dec, bin, hek un oct.
 
-  
+**(26.09.2018)**
 
-
-
-
+1.mans_mainiigais=input (saglabāt skaitļa dokumentu)
+file-newfile ("Untitle") - skripta vārds interpritators = python (GUI - idle)
+failā (caur nano; caur idle)
+Ctrl + S (saglabāt) + F3 
+Programmas intalēšana (komanda) - sudo apt-get intal ipyhon;idle.
 
 
