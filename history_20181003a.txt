@@ -5,3 +5,5 @@
     5  nano dgr_20181003a.py
     6  ls -l
     7  history > history_20181003a.txt
+    8  ./git-upload 20181003_10_20 
+    9  history > history_20181003a.txt
