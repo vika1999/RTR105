@@ -112,7 +112,7 @@ Nodarbības nosaukums:
 - dgr_20181024.py
  ```
  
- **(31.10)**
+ **(31.10.2018)**
 ```
 - dgr_20181031.py
 - teksts-short.txt
