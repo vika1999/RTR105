@@ -93,4 +93,34 @@ failā (caur nano; caur idle)
 Ctrl + S (saglabāt) + F3 
 Programmas intalēšana (komanda) - sudo apt-get intal ipyhon;idle.
 
+**(03.10.2018)**
+```
+Nodarbības nosaukums:
+- dgr_20181003a.py
+- history_20181003a.txt
+```
+**(10.10.2018)**
+```
+Nodarbības nosaukums:
+- dgr_20181010_py
+- test_20181010_1.py
+```
 
+**(24.10.2018)**
+```
+- history_20181024.txt
+- dgr_20181024.py
+ ```
+ 
+ **(31.10)**
+```
+- dgr_20181031.py
+- teksts-short.txt
+- teksts.txt
+- sin_caur_summu_ver1.py		
+- sin_caur_summu_ver2.py
+- sin_caur_summu_ver3.py
+- test_sin_caur_summu_ver1.py
+- test_sin_caur_summu_ver2.py
+- test_sin_caur_summu_ver3.py
+```
