@@ -1,7 +1,7 @@
 # RTR105
 ***Datormācības kursa eletroniskā kladē***
 
-**(06.09.2018)**
+***(06.09.2018)***
 
 Mācības saites: 1. https.//edx2.etf.rtu.lv/portal (Sakai) - mācība procēsa parvaldīšana 2. github.com - kodus saglābašana 
 
@@ -22,7 +22,7 @@ pwd (tekošais darba katalogs)
 ls - ls (visu dekt. det.fails)
 ```
 
-**(12.09.2018)**
+***(12.09.2018)***
 
 Ctrl + Shift + T - var veidot papildus tabulas
 *stradajot sistēmā, mēs esam failu sistēmā
@@ -43,7 +43,7 @@ cp - kopēt
 mv - pārvietot 
 rm*...*.txt - dzēst 
 ```
-**(19.09.2018)**
+***(19.09.2018)***
 
 (skripts) - fails ar komandu sarakstu 
 
@@ -85,7 +85,7 @@ Cilvēks - burts (simboli _ _ _ _ ) /  Dators 0/1
                  > 1,5,6,7       
 Skaītīšanas sistēmas > dec, bin, hek un oct.
 
-**(26.09.2018)**
+***(26.09.2018)***
 
 1.mans_mainiigais=input (saglabāt skaitļa dokumentu)
 file-newfile ("Untitle") - skripta vārds interpritators = python (GUI - idle)
@@ -93,26 +93,26 @@ failā (caur nano; caur idle)
 Ctrl + S (saglabāt) + F3 
 Programmas intalēšana (komanda) - sudo apt-get intal ipyhon;idle.
 
-**(03.10.2018)**
+***(03.10.2018)***
 ```
 Nodarbības nosaukums:
 - dgr_20181003a.py
 - history_20181003a.txt
 ```
-**(10.10.2018)**
+***(10.10.2018)***
 ```
 Nodarbības nosaukums:
 - dgr_20181010_py
 - test_20181010_1.py
 ```
 
-**(24.10.2018)**
+***(24.10.2018)***
 ```
 - history_20181024.txt
 - dgr_20181024.py
  ```
  
- **(31.10.2018)**
+ ***(31.10.2018)***
 ```
 - dgr_20181031.py
 - teksts-short.txt
