@@ -12,13 +12,14 @@ def mans_sinuss(x):
         R = (-1)*x*x/((2*k)*(2*k+1))
         a = a * R
         S = S + a
-        print("Izdruka no liet.f. a%d = %6.2 S%d = %6.2f"%(k,a,k,S))
+        print("Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S))
 
     print("Izdruka no liet.f. Beigas!")
     return S
 
 x = float(input("Lietotāj, lūdzu, ievadi atgumentu (x): "))
 y = sin(x)
-print("standarta sin(%.2f) = %6.2"%(x,y))
+print("standarta sin(%.2f) = %6.2f"%(x,y))
 yy = mans_sinuss(x)
 print("mans sin (%.2f) = %6.2f"%(x,yy))
+
