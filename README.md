@@ -124,7 +124,7 @@ Nodarbības nosaukums:
 - test_sin_caur_summu_ver2.py
 - test_sin_caur_summu_ver3.py
 ```
- ***(31.10.2018)***
+ ***(07.11.2018)***
 ```
 - sin_caur_summuver4.py
 - sin_caur_summu_ver5.py
