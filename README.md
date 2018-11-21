@@ -133,3 +133,32 @@ Nodarbības nosaukums:
 - test_sin_caur_summuver5.py
 _ test_sin_caur_summu_end.py
 ```
+ ***(20.11.2018)***
+```
+Katru reizi rēķināt funkcijas vēŗtību 
+Funkcijas vērtību var arī saglabāt (masīvā) un pēct tam izmantot 
+f(x)
+      |___________
+      |_______    |     f(x3)
+      |____   |   |     f(x2)
+      |____|__|___|____ f(x1) 
+                        (x)
+ 
+ 
+ 
+              __
+ f'(x) = lim |f(x+~x)-f(x)
+             |------------- - forward difference
+             |      ~x
+             |f(x+~x)-f(x-~x)
+             |------------- - central difference *sin'±x) = cos(x)*
+             |      2~x
+             |f(x)-f(x-~x)
+             |------------- - backward difference *sin"(x) = cos'(x) = -sin(x)*
+             |      ~x
+              __
+ ```
+
+   
+    
+             
