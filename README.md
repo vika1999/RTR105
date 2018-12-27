@@ -111,8 +111,7 @@ Nodarbības nosaukums:
 - history_20181024.txt
 - dgr_20181024.py
  ```
- 
- ***(31.10.2018)***
+***(31.10.2018)***
 ```
 - dgr_20181031.py
 - teksts-short.txt
@@ -124,7 +123,7 @@ Nodarbības nosaukums:
 - test_sin_caur_summu_ver2.py
 - test_sin_caur_summu_ver3.py
 ```
- ***(07.11.2018)***
+***(07.11.2018)***
 ```
 - sin_caur_summuver4.py
 - sin_caur_summu_ver5.py
@@ -133,7 +132,17 @@ Nodarbības nosaukums:
 - test_sin_caur_summuver5.py
 _ test_sin_caur_summu_end.py
 ```
- ***(20.11.2018)***
+***(14.11.2018)***
+```
+16. nodarbība (zīmešana)
+Sakai -> Lessons -> Class 15
+Darba gaita 2.-5.
+17. nodarbība
+Sakai -> Lessons -> Class 15
+Darba gaita 5.-12.
+Visu saglabābāt repozitārijā
+```
+***(20.11.2018)***
 ```
 Katru reizi rēķināt funkcijas vēŗtību 
 Funkcijas vērtību var arī saglabāt (masīvā) un pēct tam izmantot 
@@ -151,13 +160,35 @@ f(x)
              |------------- - forward difference
              |      ~x
              |f(x+~x)-f(x-~x)
-             |------------- - central difference *sin'±x) = cos(x)*
+             |------------- - central difference *sin'(x) = cos(x)*
              |      2~x
              |f(x)-f(x-~x)
              |------------- - backward difference *sin"(x) = cos'(x) = -sin(x)*
              |      ~x
               __
- ```
+```
+***(05.12.2018)***
+```
+T = 84(10) = MSB - 0|101|0100(2) - LSB                                                   XOR
+                        |                                                          X(1)| X(2) | Y
+                        |  ^                                                        0  |  0   | 0
+                        |(XOR)                                                      0  |  1   | 1
+                        |                                                           1  |  0   | 1
+    5(10)  = 0000|0101(2)                                                           1  |  1   | 0
+                 |
+           ______|______ = 2^0 + 2^4 + 2^6 = 1 + 16 + 64 + 81(10)
+             0101 0001
+       
+"Iekkļūst savā studenta darba apgabalā ..."
+  ssh_-X_x181REB100@213.175.92.22
+```
+***(19.11.2018)***
+```
+Funkcijas:
+sudo apt-get update
+sudo apt-get install jupyter
+Windows OS -> Anaconda <- jupyter
+```
 
    
     
