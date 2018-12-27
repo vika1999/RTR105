@@ -179,7 +179,7 @@ T = 84(10) = MSB - 0|101|0100(2) - LSB                                          
            ______|______ = 2^0 + 2^4 + 2^6 = 1 + 16 + 64 + 81(10)
              0101 0001
        
-"Iekkļūst savā studenta darba apgabalā ..."
+"Iekļūst savā studenta darba apgabalā ..."
   ssh_-X_x181REB100@213.175.92.22
 ```
 ***(19.11.2018)***
