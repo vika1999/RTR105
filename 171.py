@@ -1,6 +1,6 @@
 # Fails : 171.py
-# Autors : Yulia Semchenkova
-# Apliecibas numurs: 181REB329
+# Autors : Viktorija Jegorova
+# Apliecibas numurs: 181REB337
 # Datums: 14.11.2018.
 # Sagatave funkcijas saknes mekleeshanai ar dihatomijas metodi
 
